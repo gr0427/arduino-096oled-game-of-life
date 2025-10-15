@@ -5,6 +5,8 @@ Arduino program that runs Conway's Game of Life using an Arduino Nano and a 0.96
 **By: Grant Oliver**  
 **Published: Oct. 15, 2025**
 
+![Preview of project](https://i.imgur.com/zMrB0WR.png)
+
 ---
 
 ## Overview
